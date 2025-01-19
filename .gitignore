@@ -1,0 +1,40 @@
+# Ignorar carpetas del sistema
+/.anaconda/
+/.aws/
+/.cache/
+/.conda/
+/.continuum/
+/.dbclient/
+/.docker/
+/.dotnet/
+/.eclipse/
+/.gradle/
+/.ipython/
+/.matplotlib/
+/.nuget/
+/.p2/
+/.spyder-py3/
+/.vscode/
+
+# Ignorar archivos temporales
+*.log
+*.tmp
+
+# Ignorar directorios comunes
+3D Objects/
+AndroidStudioProjects/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Jedi/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
