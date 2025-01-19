@@ -38,3 +38,14 @@ Pictures/
 Saved Games/
 Searches/
 Videos/
+
+# Ignorar archivos de sistema de Windows
+*.log
+*.dat
+*.bak
+
+# Ignorar directorios del sistema
+/AppData/
+/Anaconda3/
+/eclipse-workspace/
+ntuser.dat*
